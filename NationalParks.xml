@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NationalParks>
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5100</Phone>
+    <Address NearestAirport="Tucson International Airport">
+      <Number>3693</Number>
+      <Street>S Old Spanish Trail</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85730</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Petrified Forest</Name>
+    <Phone>928-524-6822</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport">
+      <Number>311</Number>
+      <Street>Interstate 40</Street>
+      <City>Petrified Forest</City>
+      <State>AZ</State>
+      <Zip>86028</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Great Basin</Name>
+    <Phone>775-234-7331</Phone>
+    <Address NearestAirport="Cedar City Regional Airport">
+      <Number>100</Number>
+      <Street>Great Basin National Park</Street>
+      <City>Baker</City>
+      <State>NV</State>
+      <Zip>89311</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Capitol Reef</Name>
+    <Phone>435-425-3791</Phone>
+    <Address NearestAirport="Cedar City Regional Airport">
+      <Number>52</Number>
+      <Street>West Headquarters Drive</Street>
+      <City>Torrey</City>
+      <State>UT</State>
+      <Zip>84775</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Lassen Volcanic</Name>
+    <Phone>530-595-6100</Phone>
+    <Address NearestAirport="Redding Regional Airport">
+      <Number>38050</Number>
+      <Street>Highway 36 East</Street>
+      <City>Mineral</City>
+      <State>CA</State>
+      <Zip>96063</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Channel Islands</Name>
+    <Phone>805-658-5730</Phone>
+    <Phone>805-658-5700</Phone>
+    <Address NearestAirport="Santa Barbara Airport">
+      <Number>1901</Number>
+      <Street>Spinnaker Drive</Street>
+      <City>Ventura</City>
+      <State>CA</State>
+      <Zip>93001</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Theodore Roosevelt</Name>
+    <Phone>701-623-4466</Phone>
+    <Address NearestAirport="Dickinson Theodore Roosevelt Regional Airport">
+      <Number>201</Number>
+      <Street>East River Road North</Street>
+      <City>Medora</City>
+      <State>ND</State>
+      <Zip>58645</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Congaree</Name>
+    <Phone>803-776-4396</Phone>
+    <Address NearestAirport="Columbia Metropolitan Airport">
+      <Number>100</Number>
+      <Street>National Park Road</Street>
+      <City>Hopkins</City>
+      <State>SC</State>
+      <Zip>29061</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Mammoth Cave</Name>
+    <Phone>270-758-2180</Phone>
+    <Phone>877-444-6777</Phone>
+    <Address NearestAirport="Louisville International Airport">
+      <Number>1</Number>
+      <Street>Mammoth Cave Parkway</Street>
+      <City>Mammoth Cave</City>
+      <State>KY</State>
+      <Zip>42259</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Hot Springs</Name>
+    <Phone>501-620-6715</Phone>
+    <Address NearestAirport="Memorial Field Airport">
+      <Number>101</Number>
+      <Street>Reserve Street</Street>
+      <City>Hot Springs</City>
+      <State>AR</State>
+      <Zip>71901</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>
